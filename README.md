@@ -18,9 +18,9 @@
 #jika sudah selesai, close terminal<p>
 
 #TUTORIAL VIDEO <br>
-https://youtu.be/ipUKgZy9TJA?si=IaOLdrpuSbDH4tmL
+https://youtu.be/ZfBr9DrSBHY?si=vmJeLeK8A0vBKNuI
 
-#JUALAN JUGA 
-CLOUD9 FULL ACCESS ROOT
-CLOUD9 SHARED
+#JUALAN JUGA <br>
+CLOUD9 FULL ACCESS ROOT <br>
+CLOUD9 SHARED <br>
 https://t.me/+oLOLPm9-FWM4ZGVl
