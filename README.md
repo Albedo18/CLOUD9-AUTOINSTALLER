@@ -5,19 +5,19 @@
 #CARA INSTALL
 #login vps root lewat putty/termius
 
-"sudo apt-get update"
-"sudo apt-get install -y git"
-"git clone https://github.com/Albedo18/CLOUD9-AUTOINSTALLER.git cloud9"
-"cd cloud9"
-"sudo bash albedo-install.sh"
+"sudo apt-get update" <br>
+"sudo apt-get install -y git" <br>
+"git clone https://github.com/Albedo18/CLOUD9-AUTOINSTALLER.git cloud9" <br>
+"cd cloud9" <br>
+"sudo bash albedo-install.sh" <br><p>
 
-#jika ada tulisan server update bla bla bla enter aja(pc)/kembali(keyboard hp)
-"sudo bash albedo-create.sh"
+#jika ada tulisan service restart bla bla bla enter aja(pc)/kembali(keyboard hp) <br>
+"sudo bash albedo-create.sh" <br><p>
 
-#nanti disuruh masukkan username,password,ip,port,folder buat setup cloud9<br
-#jika sudah selesai, close terminal
+#nanti disuruh masukkan username,password,ip,port,folder buat setup cloud9<br>
+#jika sudah selesai, close terminal<p>
 
-#TUTORIAL VIDEO
+#TUTORIAL VIDEO <br>
 https://youtu.be/ipUKgZy9TJA?si=IaOLdrpuSbDH4tmL
 
 #JUALAN JUGA 
