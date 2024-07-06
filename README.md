@@ -7,7 +7,7 @@
 
 "sudo apt-get update"
 "sudo apt-get install -y git"
-"https://github.com/Albedo18/CLOUD9-AUTOINSTALLER.git cloud9"
+"git clone https://github.com/Albedo18/CLOUD9-AUTOINSTALLER.git cloud9"
 "cd cloud9"
 "sudo bash albedo-install.sh"
 
